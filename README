@@ -1,0 +1,2 @@
+This little Python script notifies every minute with the bid, ask en latest price of the Bitcoin exchange Bitstamp.net
+It uses the python-notify library.
